@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import './Home.css'
 import Slider from './Slider'
-import { CartContext, Phone, PhoneList } from '../App'
+import { CartContext, Phone } from '../App'
 const Home = () => {
     const [,mobiles]= useContext(CartContext)
     return (

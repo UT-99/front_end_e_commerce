@@ -7,9 +7,9 @@ import Footer from './Component/Footer';
 
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
-import Slider from './Component/Slider';
-import Login from './Component/Login';
-import SignUp from './Component/SignUp';
+// import Slider from './Component/Slider';
+// import Login from './Component/Login';
+// import SignUp from './Component/SignUp';
 import Routing from './Component/Routing';
 
 
